@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app">ChuteAlerte</string>
+    <string name="about">About</string>
+    <string name="settings">Paramètres</string>
+    <string name="signals">Signaux</string>
+    <string name="guardian">Guardian</string>
+    <string name="title">Numéro de téléphone d urgence </string>
+    <string name="summary">Veuillez définir le numéro de téléphone d urgence ici</string>
+    <string name="contact">Contact</string>
+    <string name="phone">Numéro de téléphone d urgence</string>
+    <string name="search">Recherchez un contact</string>
+    <string name="accept">Accept</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="emergency">Urgence</string>
+    <string name="grant">Grant Permissions</string>
+    <string name="live">En direct</string>
+    <string name="collection">Collection</string>
+    <string name="collecting">Partager les données du capteur avec le contact d urgence (nécessite un redémarrage)</string>
+</resources>
