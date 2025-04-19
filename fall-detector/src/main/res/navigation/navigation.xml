@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@+id/emergency">
+
+    <fragment
+        android:id="@+id/emergency"
+        android:name="altermarkive.guardian.Emergency"
+        android:label="Urgence"
+        tools:layout="@layout/emergency" />
+
+    <fragment
+        android:id="@+id/signals"
+        android:name="altermarkive.guardian.Signals"
+        android:label="@string/signals"
+        tools:layout="@layout/signals" />
+
+    <fragment
+        android:id="@+id/settings"
+        android:name="altermarkive.guardian.Settings"
+        android:label="@string/settings" />
+
+</navigation>
